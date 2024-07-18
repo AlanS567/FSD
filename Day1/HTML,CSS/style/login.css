@@ -1,0 +1,22 @@
+.s1 {
+    border: 5px solid rgb(188, 145, 29);
+    margin: 10%;
+    padding: 10% 10% 10% 30%;
+    background-color: bisque;
+    background-image: url(https://sm.ign.com/t/ign_in/review/d/deadpool-r/deadpool-review_25m7.1280.jpg);
+    border-radius: 6em;
+}
+.s1 button{
+    margin-left: 20%;
+    border-radius: 5em;
+    background-color: rgb(32, 172, 95);
+}
+.s1 :placeholder-shown{
+    
+
+
+}
+.s1 input{
+    background-color: rgb(255, 127, 142);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
